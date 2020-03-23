@@ -1,2 +1,1 @@
-# curso-python
-repositorio prueba para curso de python
+print("Hola mundo")
