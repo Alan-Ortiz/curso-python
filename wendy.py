@@ -11,3 +11,4 @@ elif imc > 25 and imc < 30:
     print("Usted está en Sobrepeso")
 else imc > 18 and imc < 25:
     print("Usted tiene Normopeso")
+    
