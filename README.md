@@ -1,1 +1,1 @@
-1.- Curso de desarrollo python
+<!-- crea una funcion que analice una cadena si la cadena tiene caracteres repetidos se imprimira una nueva cadena con el caracter )  # en lugar de la letra repetida y el caracter ( si la letra se encuentra solo una vez en la cadena, por ejemplo # si la palabra es din la funcion debe regresar (((  --> -->
