@@ -6,13 +6,15 @@ def multiplicacion (a, b):
     return a * b
 def división (a, b): 
     return a / b
-while True:
-    print("Escoga una operacion") 
-    print("1.suma") 
-    print("2.resta") 
-    print("3.multiplicacion") 
-    print("4.Division")
-    opción = int(input())
+
+print("Escoga una operacion") 
+print("1.suma") 
+print("2.resta") 
+print("3.multiplicacion") 
+print("4.Division")
+print("5. Salir")
+opción = int(:input("Opcion: "))
+while opción != 5
     a,b = int(input("introduzca número: ")),int(input("introduzca otro número: "))
     if opción == 1:
         print(suma(a,b))
@@ -24,3 +26,10 @@ while True:
         print(división(a,b))
     else:
         print("opción invalida")
+    print("Escoga una operacion") 
+    print("1.suma") 
+    print("2.resta") 
+    print("3.multiplicacion") 
+    print("4.Division")
+    print("5. Salir")
+    opción = int(input("opcion: "))
